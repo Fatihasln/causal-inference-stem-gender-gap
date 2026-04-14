@@ -78,17 +78,13 @@ Update `FILE_INTL` and `FILE_DOM` at the top of the notebook to point to your lo
 
 ---
 
-## Citation
-
-```bibtex
-@unpublished{ciftaslan2026paying,
+@misc{ciftaslan2026paying,
   author = {Çiftaslan, Mehmet Fatih},
   title  = {Paying for Progress? The Causal Effect of Financial Incentives on Female {STEM} Enrollment},
   year   = {2026},
   note   = {SSRN Working Paper 6282579},
   url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579}
 }
-```
 
 ---
 
