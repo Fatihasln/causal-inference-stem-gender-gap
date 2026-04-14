@@ -2,7 +2,7 @@
 
 # Causal Inference: Financial Incentives and Female STEM Enrollment in Italy
 
-[![SSRN](https://img.shields.io/badge/SSRN-6282579-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579)
+[![SSRN](https://img.shields.io/badge/SSRN-6282579-blue)]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579))
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -83,7 +83,7 @@ Update `FILE_INTL` and `FILE_DOM` at the top of the notebook to point to your lo
   title  = {Paying for Progress? The Causal Effect of Financial Incentives on Female {STEM} Enrollment},
   year   = {2026},
   note   = {SSRN Working Paper 6282579},
-  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579}
+  url    = {[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6282579)}
 }
 
 ---
